@@ -1,0 +1,126 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.millenium.bots.whatsapp</groupId>
+		<artifactId>mille-bots-whatsapp</artifactId>
+		<version>1.0</version>
+	</parent>
+	<artifactId>mille-bots-whatsapp-enviarmensaje</artifactId>
+	<name>MILLE-BOTS-WHATSAPP-ENVIARMENSAJE</name>
+	<packaging>jar</packaging>
+
+	<dependencies>
+
+		<dependency>
+			<groupId>com.millenium.bots.common</groupId>
+			<artifactId>mille-bots-common</artifactId>
+			<version>1.0</version>
+		</dependency>
+
+	</dependencies>
+
+	<build>
+
+		<plugins>
+			<plugin>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<executions>
+					<execution>
+						<phase>package</phase>
+						<goals>
+							<goal>copy-dependencies</goal>
+						</goals>
+						<configuration>
+							<outputDirectory>${project.build.directory}/lib</outputDirectory>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<classpathPrefix>lib</classpathPrefix>
+							<addClasspath>true</addClasspath>
+							<mainClass>com.millenium.bots.whatsapp.enviarmensaje.SendMessage</mainClass>
+						</manifest>
+					</archive>
+				</configuration>
+			</plugin>
+			
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-antrun-plugin</artifactId>
+				<version>1.8</version>
+				<executions>
+					<execution>
+						<id>generate-files</id>
+						<phase>package</phase>
+						<goals>
+							<goal>run</goal>
+						</goals>
+						<configuration>
+							<tasks>
+								<delete file="${basedir}/../deploy/${project.artifactId}.zip" />
+								<delete dir="${basedir}/../deploy/${project.name}" />
+								<mkdir dir="${basedir}/../deploy" />
+								
+								<!-- AHK -->
+								<copy
+									todir="${basedir}/../deploy/${project.artifactId}/ahk" overwrite="true">
+									<fileset dir="${basedir}/../../mille-bots-common/ahk" />
+								</copy>
+								
+								<!-- iedriverserver -->
+								<copy
+									todir="${basedir}/../deploy/${project.artifactId}/drivers" overwrite="true">
+									<fileset dir="${basedir}/../../mille-bots-common/drivers/" includes="chrome.*"/>
+								</copy>
+								
+							</tasks>
+						</configuration>
+					</execution>
+
+					<execution>
+						<id>server-delete_package</id>
+						<phase>install</phase>
+						<goals>
+							<goal>run</goal>
+						</goals>
+						<configuration>
+							<target>
+								<delete dir="${basedir}/../deploy/${project.name}" />
+							</target>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			
+			<plugin>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<version>2.5.3</version>
+				<configuration>
+					<descriptor>../assembly.xml</descriptor>
+					<finalName>${project.artifactId}</finalName>
+					<outputDirectory>${basedir}/../deploy/</outputDirectory>
+					<appendAssemblyId>false</appendAssemblyId>
+				</configuration>
+				<executions>
+					<execution>
+						<id>create-archive</id>
+						<phase>package</phase>
+						<goals>
+							<goal>single</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			
+		</plugins>
+	</build>
+</project>
+	

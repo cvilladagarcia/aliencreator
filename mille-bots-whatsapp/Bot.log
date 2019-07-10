@@ -1,0 +1,827 @@
+2018-04-05 20:28:35,921 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 20:28:35,940 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 20:28:40,297 - INFO  [main:AhkDllController@90] - DLL is loaded from memory
+2018-04-05 20:28:46,180 - ERROR [main:DriverFirefox@55] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:32)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:62)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:69)
+2018-04-05 20:36:03,962 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 20:36:03,965 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 20:36:04,511 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 20:37:26,579 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 20:37:26,582 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 20:37:27,075 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 20:39:45,774 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 20:39:45,777 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 20:39:46,330 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 20:46:03,678 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 20:46:03,681 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 20:46:04,171 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 20:56:20,025 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 20:56:20,028 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 20:56:20,628 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 21:14:49,955 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 21:14:49,957 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 21:14:50,476 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 21:17:33,308 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 21:17:33,310 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 21:17:33,823 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 21:18:39,169 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 21:18:39,171 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 21:18:39,678 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 21:19:28,365 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 21:19:28,367 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 21:19:28,847 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 21:23:29,165 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 21:23:29,167 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 21:23:29,614 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 21:23:34,935 - ERROR [main:DriverChrome@35] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverChrome.getDriverConnection(DriverChrome.java:29)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:66)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:69)
+2018-04-05 21:26:54,804 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 21:26:54,807 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 21:26:55,234 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:06:18,920 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:06:18,922 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:06:19,362 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:07:16,017 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:07:16,019 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:07:16,455 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:15:16,412 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:15:16,414 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:15:16,792 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:18:10,376 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:18:10,379 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:18:10,792 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:28:10,054 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:28:10,057 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:28:10,553 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:35:24,422 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:35:24,425 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:35:25,018 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:39:10,387 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:39:10,390 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:39:10,792 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:46:56,178 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:46:56,181 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:46:56,600 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:47:02,045 - ERROR [main:DriverFirefox@75] - Unexpected value for profile: null
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MBPO100DES18T0', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+org.openqa.selenium.WebDriverException: Unexpected value for profile: null
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MBPO100DES18T0', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.firefox.FirefoxOptions.setCapability(FirefoxOptions.java:330)
+	at org.openqa.selenium.firefox.FirefoxOptions.setProfile(FirefoxOptions.java:226)
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:69)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:69)
+2018-04-05 22:47:44,952 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:47:44,954 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:47:45,385 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:49:44,302 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:49:44,305 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:49:44,752 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:49:50,179 - ERROR [main:DriverFirefox@76] - Unexpected value for profile: null
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MBPO100DES18T0', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+org.openqa.selenium.WebDriverException: Unexpected value for profile: null
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MBPO100DES18T0', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.firefox.FirefoxOptions.setCapability(FirefoxOptions.java:330)
+	at org.openqa.selenium.firefox.FirefoxOptions.setProfile(FirefoxOptions.java:226)
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:70)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:69)
+2018-04-05 22:51:20,264 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:51:20,267 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:51:20,733 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:51:26,170 - ERROR [main:DriverFirefox@76] - Unexpected value for profile: null
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MBPO100DES18T0', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+org.openqa.selenium.WebDriverException: Unexpected value for profile: null
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MBPO100DES18T0', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.firefox.FirefoxOptions.setCapability(FirefoxOptions.java:330)
+	at org.openqa.selenium.firefox.FirefoxOptions.setProfile(FirefoxOptions.java:226)
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:70)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:69)
+2018-04-05 22:52:47,002 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 22:52:47,004 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 22:52:47,445 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 22:52:52,863 - ERROR [main:DriverFirefox@77] - Unexpected value for profile: null
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MBPO100DES18T0', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+org.openqa.selenium.WebDriverException: Unexpected value for profile: null
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MBPO100DES18T0', ip: '192.168.56.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.firefox.FirefoxOptions.setCapability(FirefoxOptions.java:330)
+	at org.openqa.selenium.firefox.FirefoxOptions.setProfile(FirefoxOptions.java:226)
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:71)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:69)
+2018-04-05 23:09:59,874 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:09:59,876 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:10:00,393 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:12:55,528 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:12:55,530 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:12:55,927 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:22:05,449 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:22:05,451 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:22:06,039 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:26:17,792 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:26:17,794 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:26:18,430 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:33:53,759 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:33:53,762 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:33:54,261 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:33:59,589 - ERROR [main:DriverFirefox@82] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:33)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:69)
+2018-04-05 23:36:58,313 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:36:58,315 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:36:59,050 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:37:04,389 - ERROR [main:DriverFirefox@82] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:33)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:69)
+2018-04-05 23:38:22,219 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:38:22,221 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:38:22,770 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:38:28,107 - ERROR [main:DriverFirefox@82] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:33)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:69)
+2018-04-05 23:40:23,013 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:40:23,015 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:40:23,584 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:41:36,798 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:41:36,801 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:41:37,339 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:42:52,884 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:42:52,886 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:42:53,382 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:48:14,388 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:48:14,391 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:48:14,807 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:52:33,090 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:52:33,093 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:52:33,580 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-05 23:55:01,870 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-05 23:55:01,872 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-05 23:55:02,389 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 00:26:47,225 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 00:26:47,227 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 00:26:47,704 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 00:28:48,608 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 00:28:48,610 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 00:28:49,047 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 00:30:51,812 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 00:30:51,815 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 00:30:52,280 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 00:31:28,404 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 00:31:28,407 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 00:31:28,947 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 00:43:49,033 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 00:43:49,036 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 00:43:49,608 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 00:48:14,457 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 00:48:14,459 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 00:48:14,956 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 00:54:25,898 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 00:54:25,900 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 00:54:26,368 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 00:56:03,383 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 00:56:03,385 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 00:56:03,982 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 00:59:47,016 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 00:59:47,018 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 00:59:47,494 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 01:06:57,303 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 01:06:57,305 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 01:06:57,704 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 01:07:55,973 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 01:07:55,975 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 01:07:56,485 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 01:10:35,496 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 01:10:35,499 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 01:10:36,090 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 01:10:57,509 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 01:10:57,511 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 01:10:58,008 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 01:14:25,594 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 01:14:25,596 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 01:14:26,085 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 01:20:00,770 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 01:20:00,773 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 01:20:01,404 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 01:20:24,571 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 01:20:24,573 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 01:20:24,983 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 11:28:04,452 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 11:28:04,584 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 11:28:05,116 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 11:32:16,689 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 11:32:16,691 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 11:32:17,176 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 11:34:06,556 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 11:34:06,559 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 11:34:07,055 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 11:35:52,736 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 11:35:52,740 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 11:35:53,202 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 11:37:36,555 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 11:37:36,557 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 11:37:37,177 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 11:42:05,932 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 11:42:05,935 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 11:42:06,425 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 11:43:50,030 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 11:43:50,032 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 11:43:50,560 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 11:46:33,534 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 11:46:33,537 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 11:46:33,956 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 12:07:11,176 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 12:07:11,178 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 12:07:11,619 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 12:08:48,397 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 12:08:48,399 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 12:08:48,848 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 18:59:58,770 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 18:59:58,800 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 18:59:59,455 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-06 19:00:38,018 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-06 19:00:38,021 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-06 19:00:38,676 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 08:19:12,980 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 08:19:13,025 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 08:19:13,742 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 08:20:05,435 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 08:20:05,437 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 08:20:05,906 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 08:25:39,823 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 08:25:39,825 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 08:25:40,346 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 08:28:05,039 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 08:28:05,042 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 08:28:05,582 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 08:33:02,542 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 08:33:02,544 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 08:33:03,529 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 08:33:15,535 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573219247644 por whatsapp.
+2018-04-09 08:33:24,942 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573219247644 por whatsapp.
+2018-04-09 08:35:07,553 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573219247642 por whatsapp.
+2018-04-09 08:41:25,766 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573219247642 por whatsapp.
+2018-04-09 08:41:42,204 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573219247642 por whatsapp.
+2018-04-09 08:41:58,602 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573219247642 por whatsapp.
+2018-04-09 08:42:53,393 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573219247644 por whatsapp.
+2018-04-09 08:43:09,504 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573219247644 por whatsapp.
+2018-04-09 08:43:25,425 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573219247644 por whatsapp.
+2018-04-09 08:48:55,138 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573105667983 por whatsapp.
+2018-04-09 09:02:47,075 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573152089832 por whatsapp.
+2018-04-09 09:10:07,855 - INFO  [main:SendMessage@94] - Se envio con exito el mensaje al celular 573134498596 por whatsapp.
+2018-04-09 13:12:37,227 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 13:12:37,229 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 13:12:37,648 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 13:14:01,391 - INFO  [main:SendMessage@99] - Se envio con exito el mensaje al celular 573192990146 por whatsapp.
+2018-04-09 13:28:34,166 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 13:28:34,169 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 13:28:34,884 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 14:25:06,125 - INFO  [main:SendMessage@100] - Se envio con exito el mensaje al celular 573192990146 por whatsapp.
+2018-04-09 14:25:32,415 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 14:25:32,417 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 14:25:32,818 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 14:25:37,850 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 14:25:37,852 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 14:25:38,300 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 14:25:56,294 - INFO  [main:SendMessage@100] - Se envio con exito el mensaje al celular 573192990146 por whatsapp.
+2018-04-09 14:51:56,946 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 14:51:56,948 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 14:51:57,370 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 14:52:44,155 - INFO  [main:SendMessage@101] - Se envio con exito el mensaje al celular 573192990146 por whatsapp.
+2018-04-09 15:01:45,393 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 15:01:45,395 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 15:01:45,825 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 15:03:34,674 - INFO  [main:SendMessage@101] - Se envio con exito el mensaje al celular 573192990146 por whatsapp.
+2018-04-09 15:14:04,436 - ERROR [main:SeleniumFunctions@212] - No se pudo encontrar el WebElement por javascript: //*[@id='main']/footer/div[1]/button/span Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id='main']/footer/div[1]/button/span (tried for 60 second(s) with 500 MILLISECONDS interval)
+2018-04-09 15:21:39,355 - ERROR [main:SeleniumFunctions@212] - No se pudo encontrar el WebElement por javascript: //*[@id='main']/footer/div[1]/button/span Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id='main']/footer/div[1]/button/span (tried for 60 second(s) with 500 MILLISECONDS interval)
+2018-04-09 15:33:44,433 - ERROR [main:SeleniumFunctions@212] - No se pudo encontrar el WebElement por javascript: //*[@id='main']/footer/div[1]/button/span Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id='main']/footer/div[1]/button/span (tried for 60 second(s) with 500 MILLISECONDS interval)
+2018-04-09 17:46:42,923 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 17:46:42,925 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 17:46:43,453 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 18:27:03,025 - ERROR [main:DataSourcePostgreSQL@39] - El intento de conexión falló.
+2018-04-09 18:27:03,025 - ERROR [main:JDBCManager@228] - 
+java.lang.NullPointerException
+	at com.millenium.bots.common.query.JDBCManager.openConnection(JDBCManager.java:38)
+	at com.millenium.bots.common.query.JDBCManager.find(JDBCManager.java:188)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:172)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:150)
+	at com.millenium.bots.whatsapp.enviarmensaje.dao.SmsOutBoundDAO.getSmsOutBound(SmsOutBoundDAO.java:29)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:83)
+2018-04-09 18:27:03,064 - ERROR [main:JDBCManager@46] - 
+java.lang.NullPointerException
+	at com.millenium.bots.common.dbmanager.DataSourcePostgreSQL.releaseConnection(DataSourcePostgreSQL.java:67)
+	at com.millenium.bots.common.query.JDBCManager.closeConnection(JDBCManager.java:43)
+	at com.millenium.bots.common.query.JDBCManager.find(JDBCManager.java:238)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:172)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:150)
+	at com.millenium.bots.whatsapp.enviarmensaje.dao.SmsOutBoundDAO.getSmsOutBound(SmsOutBoundDAO.java:29)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:83)
+2018-04-09 18:46:03,574 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 18:46:03,576 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 18:46:04,028 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 18:46:23,234 - INFO  [main:SendMessage@90] - Mensaje de prueba enviado
+2018-04-09 18:46:37,421 - INFO  [main:SendMessage@90] - Mensaje de prueba enviado
+2018-04-09 18:46:50,831 - INFO  [main:SendMessage@90] - Mensaje de prueba enviado
+2018-04-09 18:47:05,406 - INFO  [main:SendMessage@90] - Mensaje de prueba enviado
+2018-04-09 18:47:19,502 - INFO  [main:SendMessage@90] - Mensaje de prueba enviado
+2018-04-09 18:47:33,027 - INFO  [main:SendMessage@90] - Mensaje de prueba enviado
+2018-04-09 18:47:47,611 - INFO  [main:SendMessage@90] - Mensaje de prueba enviado
+2018-04-09 18:48:28,821 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 18:48:28,824 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 18:48:29,308 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 18:49:05,838 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 18:49:05,841 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 18:49:06,302 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 18:49:27,255 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 1
+2018-04-09 18:49:56,171 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 18:49:56,173 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 18:49:56,575 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 18:50:26,850 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 1
+2018-04-09 18:50:50,627 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 2
+2018-04-09 18:51:14,671 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 3
+2018-04-09 18:51:38,243 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 4
+2018-04-09 18:52:03,349 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 5
+2018-04-09 18:52:27,627 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 6
+2018-04-09 18:52:45,559 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-09 18:52:45,561 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-09 18:52:46,054 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-09 19:06:04,965 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 1
+2018-04-09 19:19:20,724 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 2
+2018-04-09 19:33:03,280 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 3
+2018-04-09 19:46:17,341 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 4
+2018-04-09 19:59:32,829 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 5
+2018-04-09 20:12:43,415 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 6
+2018-04-09 20:26:43,716 - ERROR [main:SeleniumFunctions@212] - No se pudo encontrar el WebElement por javascript: //*[@id='main']/footer/div[1]/button/span Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id='main']/footer/div[1]/button/span (tried for 60 second(s) with 500 MILLISECONDS interval)
+2018-04-09 20:26:45,268 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 7
+2018-04-09 20:40:41,838 - ERROR [main:SeleniumFunctions@212] - No se pudo encontrar el WebElement por javascript: //*[@id='main']/footer/div[1]/button/span Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id='main']/footer/div[1]/button/span (tried for 60 second(s) with 500 MILLISECONDS interval)
+2018-04-09 20:40:43,399 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 8
+2018-04-09 20:53:57,696 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 9
+2018-04-09 21:07:09,599 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 10
+2018-04-09 21:20:19,035 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 11
+2018-04-09 21:33:30,127 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 12
+2018-04-09 21:46:40,087 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 13
+2018-04-09 21:59:50,055 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 14
+2018-04-09 22:13:00,211 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 15
+2018-04-09 22:26:12,119 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 16
+2018-04-09 22:39:30,098 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 17
+2018-04-09 22:52:41,147 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 18
+2018-04-09 23:05:57,831 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 19
+2018-04-09 23:19:16,540 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 20
+2018-04-09 23:32:29,786 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 21
+2018-04-09 23:45:45,082 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 22
+2018-04-10 00:03:20,803 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 23
+2018-04-10 00:21:54,923 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 24
+2018-04-10 00:35:13,791 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 25
+2018-04-10 00:48:31,544 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 26
+2018-04-10 01:02:08,441 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 27
+2018-04-10 01:17:43,550 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 28
+2018-04-10 01:33:07,462 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 29
+2018-04-10 01:46:54,349 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 30
+2018-04-10 02:00:05,636 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 31
+2018-04-10 02:13:17,662 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 32
+2018-04-10 02:26:28,153 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 33
+2018-04-10 02:39:38,615 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 34
+2018-04-10 02:52:48,752 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 35
+2018-04-10 03:06:00,176 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 36
+2018-04-10 03:19:13,209 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 37
+2018-04-10 03:32:22,902 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 38
+2018-04-10 03:45:33,089 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 39
+2018-04-10 03:58:46,196 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 40
+2018-04-10 04:12:42,478 - ERROR [main:SeleniumFunctions@212] - No se pudo encontrar el WebElement por javascript: //*[@id='main']/footer/div[1]/button/span Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id='main']/footer/div[1]/button/span (tried for 60 second(s) with 500 MILLISECONDS interval)
+2018-04-10 04:12:44,031 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 41
+2018-04-10 04:26:14,189 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 42
+2018-04-10 04:39:24,486 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 43
+2018-04-10 04:52:39,436 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 44
+2018-04-10 05:05:54,595 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 45
+2018-04-10 05:19:09,853 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 46
+2018-04-10 05:32:25,716 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 47
+2018-04-10 05:34:35,510 - ERROR [main:DataSourcePostgreSQL@39] - El intento de conexión falló.
+2018-04-10 05:34:35,511 - ERROR [main:JDBCManager@228] - 
+java.lang.NullPointerException
+	at com.millenium.bots.common.query.JDBCManager.openConnection(JDBCManager.java:38)
+	at com.millenium.bots.common.query.JDBCManager.find(JDBCManager.java:188)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:172)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:150)
+	at com.millenium.bots.whatsapp.enviarmensaje.dao.SmsOutBoundDAO.getSmsOutBound(SmsOutBoundDAO.java:29)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:84)
+2018-04-10 05:34:35,513 - ERROR [main:JDBCManager@46] - 
+java.lang.NullPointerException
+	at com.millenium.bots.common.dbmanager.DataSourcePostgreSQL.releaseConnection(DataSourcePostgreSQL.java:67)
+	at com.millenium.bots.common.query.JDBCManager.closeConnection(JDBCManager.java:43)
+	at com.millenium.bots.common.query.JDBCManager.find(JDBCManager.java:238)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:172)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:150)
+	at com.millenium.bots.whatsapp.enviarmensaje.dao.SmsOutBoundDAO.getSmsOutBound(SmsOutBoundDAO.java:29)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:84)
+2018-04-10 05:34:40,513 - ERROR [main:DataSourcePostgreSQL@39] - El intento de conexión falló.
+2018-04-10 05:34:40,513 - ERROR [main:JDBCManager@228] - 
+java.lang.NullPointerException
+	at com.millenium.bots.common.query.JDBCManager.openConnection(JDBCManager.java:38)
+	at com.millenium.bots.common.query.JDBCManager.find(JDBCManager.java:188)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:172)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:150)
+	at com.millenium.bots.whatsapp.enviarmensaje.dao.SmsOutBoundDAO.getSmsOutBound(SmsOutBoundDAO.java:29)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:84)
+2018-04-10 05:34:40,513 - ERROR [main:JDBCManager@46] - 
+java.lang.NullPointerException
+	at com.millenium.bots.common.dbmanager.DataSourcePostgreSQL.releaseConnection(DataSourcePostgreSQL.java:67)
+	at com.millenium.bots.common.query.JDBCManager.closeConnection(JDBCManager.java:43)
+	at com.millenium.bots.common.query.JDBCManager.find(JDBCManager.java:238)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:172)
+	at com.millenium.bots.common.dao.GenericDAO.querySelect(GenericDAO.java:150)
+	at com.millenium.bots.whatsapp.enviarmensaje.dao.SmsOutBoundDAO.getSmsOutBound(SmsOutBoundDAO.java:29)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:84)
+2018-04-10 05:45:37,987 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 48
+2018-04-10 05:58:48,918 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 49
+2018-04-10 06:12:00,699 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 50
+2018-04-10 06:25:16,755 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 51
+2018-04-10 06:38:27,030 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 52
+2018-04-10 06:51:36,893 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 53
+2018-04-10 07:04:53,063 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 54
+2018-04-10 07:18:05,389 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 55
+2018-04-10 07:31:20,111 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 56
+2018-04-10 07:44:30,675 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 57
+2018-04-10 07:57:47,468 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 58
+2018-04-10 08:11:00,906 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 59
+2018-04-10 08:24:15,850 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 60
+2018-04-10 08:37:27,610 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 61
+2018-04-10 08:50:41,789 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 62
+2018-04-10 09:04:15,421 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 63
+2018-04-10 09:17:28,808 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 64
+2018-04-10 09:30:42,248 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 65
+2018-04-10 09:43:57,603 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 66
+2018-04-10 09:57:36,925 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 67
+2018-04-10 10:10:51,904 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 68
+2018-04-10 10:25:31,272 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 69
+2018-04-10 10:38:49,988 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 70
+2018-04-10 11:06:42,873 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 71
+2018-04-10 11:21:28,114 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 72
+2018-04-10 11:34:44,774 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 73
+2018-04-10 11:48:23,076 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 74
+2018-04-10 12:03:10,393 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 75
+2018-04-10 12:24:35,071 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 76
+2018-04-10 12:37:43,189 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 77
+2018-04-10 12:52:46,085 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 78
+2018-04-10 13:07:27,689 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 79
+2018-04-10 13:20:39,347 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 80
+2018-04-10 13:33:54,903 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 81
+2018-04-10 13:47:33,908 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 82
+2018-04-10 14:01:31,817 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 83
+2018-04-10 16:43:12,177 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-10 16:43:12,180 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-10 16:43:12,686 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-10 16:44:18,485 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-10 16:44:18,488 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-10 16:44:18,957 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-10 16:44:46,184 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-10 16:44:46,187 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-10 16:44:46,638 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-10 16:45:34,850 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-10 16:45:34,853 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-10 16:45:35,333 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-10 16:46:45,396 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-10 16:46:45,398 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-10 16:46:45,903 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-10 16:47:13,185 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 1
+2018-04-10 16:49:20,783 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-10 16:49:20,786 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-10 16:49:21,278 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-10 16:49:46,699 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 1
+2018-04-11 09:49:37,448 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-11 09:49:37,497 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-11 09:49:38,984 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-11 09:49:56,733 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-11 09:49:56,735 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-11 09:49:57,320 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-11 09:51:15,208 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-11 09:51:15,211 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-11 09:51:15,753 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-11 09:51:40,127 - INFO  [main:SendMessage@105] - Se envio con exito el mensaje al celular 573219247644 por whatsapp.
+2018-04-11 09:53:25,609 - INFO  [main:SendMessage@105] - Se envio con exito el mensaje al celular 573219247644 por whatsapp.
+2018-04-11 09:57:20,063 - INFO  [main:SendMessage@105] - Se envio con exito el mensaje al celular 573004463744 por whatsapp.
+2018-04-11 10:05:31,804 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 1
+2018-04-11 12:01:31,706 - ERROR [main:DataSourcePostgreSQL@39] - El intento de conexión falló.
+2018-04-11 12:01:31,707 - ERROR [main:JDBCManager@324] - 
+java.lang.NullPointerException
+	at com.millenium.bots.common.query.JDBCManager.openConnection(JDBCManager.java:38)
+	at com.millenium.bots.common.query.JDBCManager.update(JDBCManager.java:314)
+	at com.millenium.bots.common.dao.GenericDAO.update(GenericDAO.java:192)
+	at com.millenium.bots.whatsapp.enviarmensaje.dao.SmsOutBoundDAO.pasarPendiente(SmsOutBoundDAO.java:43)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:85)
+2018-04-11 12:06:16,855 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-11 12:06:16,858 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-11 12:06:17,296 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-11 12:22:00,206 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 1
+2018-04-11 12:36:01,825 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 2
+2018-04-11 12:48:39,328 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 3
+2018-04-11 13:01:48,421 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 4
+2018-04-11 13:14:30,915 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 5
+2018-04-11 13:27:17,800 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 6
+2018-04-11 13:42:24,051 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 7
+2018-04-11 13:56:14,360 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 8
+2018-04-11 14:08:48,447 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 9
+2018-04-11 14:21:23,688 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 10
+2018-04-11 14:34:32,407 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 11
+2018-04-11 14:47:22,845 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 12
+2018-04-11 15:00:06,680 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 13
+2018-04-11 15:13:05,180 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 14
+2018-04-11 15:25:49,932 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 15
+2018-04-11 15:38:30,762 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 16
+2018-04-11 16:03:50,104 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 17
+2018-04-11 16:16:33,925 - INFO  [main:SendMessage@92] - Mensaje de prueba enviado 18
+2018-04-11 16:18:37,474 - ERROR [main:DataSourcePostgreSQL@39] - El intento de conexión falló.
+2018-04-11 16:18:37,475 - ERROR [main:JDBCManager@324] - 
+java.lang.NullPointerException
+	at com.millenium.bots.common.query.JDBCManager.openConnection(JDBCManager.java:38)
+	at com.millenium.bots.common.query.JDBCManager.update(JDBCManager.java:314)
+	at com.millenium.bots.common.dao.GenericDAO.update(GenericDAO.java:192)
+	at com.millenium.bots.whatsapp.enviarmensaje.dao.SmsOutBoundDAO.pasarPendiente(SmsOutBoundDAO.java:43)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:85)
+2018-04-16 15:34:15,940 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 15:34:16,046 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 15:34:19,218 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 15:35:44,955 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 15:35:44,957 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 15:35:45,427 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 15:38:20,068 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 15:38:20,070 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 15:38:20,500 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 15:38:25,923 - ERROR [main:DriverFirefox@58] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:33)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:107)
+2018-04-16 15:42:41,747 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 15:42:41,749 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 15:42:42,213 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 15:42:47,609 - ERROR [main:DriverFirefox@57] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:32)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:107)
+2018-04-16 15:59:48,708 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 15:59:48,729 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 15:59:49,269 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 15:59:55,022 - ERROR [main:DriverFirefox@57] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:32)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:107)
+2018-04-16 16:00:50,778 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:00:50,780 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:00:51,312 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:00:56,761 - ERROR [main:DriverFirefox@57] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:32)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:107)
+2018-04-16 16:08:05,487 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:08:05,490 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:08:06,030 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:08:11,557 - ERROR [main:DriverFirefox@57] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:32)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:107)
+2018-04-16 16:09:24,627 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:09:24,630 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:09:25,094 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:09:30,697 - ERROR [main:DriverFirefox@57] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:32)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:107)
+2018-04-16 16:10:01,784 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:10:01,787 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:10:02,333 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:10:07,666 - ERROR [main:DriverFirefox@58] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:33)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:107)
+2018-04-16 16:11:28,108 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:11:28,110 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:11:28,564 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:16:07,570 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:16:07,573 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:16:08,188 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:18:24,920 - ERROR [main:SeleniumFunctions@212] - No se pudo encontrar el WebElement por javascript: //*[@id='action-button'] Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id='action-button'] (tried for 120 second(s) with 500 milliseconds interval)
+2018-04-16 16:18:30,930 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:18:30,933 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:18:31,335 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:19:19,099 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:19:19,101 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:19:19,621 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:22:01,727 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:22:01,729 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:22:02,285 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:25:40,463 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:25:40,465 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:25:40,957 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:32:06,086 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:32:06,088 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:32:06,597 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:32:12,195 - ERROR [main:DriverFirefox@61] - org.openqa.selenium.firefox.FirefoxProfile cannot be cast to org.openqa.selenium.Capabilities
+java.lang.ClassCastException: org.openqa.selenium.firefox.FirefoxProfile cannot be cast to org.openqa.selenium.Capabilities
+	at com.millenium.bots.selenium.DriverFirefox.getDriverConnection(DriverFirefox.java:57)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:65)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:107)
+2018-04-16 16:38:11,373 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:38:11,375 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:38:11,860 - INFO  [main:AhkDllController@122] - initialisation
+2018-04-16 16:39:09,491 - INFO  [main:AhkDllController@84] - Running in 64
+2018-04-16 16:39:09,493 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-04-16 16:39:09,946 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-07 10:15:53,068 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-07 10:15:53,070 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-07 10:15:54,020 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-09 12:37:24,399 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-09 12:37:24,410 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-09 12:37:25,152 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-09 12:40:20,044 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-09 12:40:20,046 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-09 12:40:20,542 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-09 12:42:10,166 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-09 12:42:10,169 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-09 12:42:10,606 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-10 14:34:41,347 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-10 14:34:41,371 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-10 14:34:42,684 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-10 14:35:57,658 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-10 14:35:57,662 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-10 14:35:58,217 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 11:37:20,827 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 11:37:20,857 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 11:37:21,596 - INFO  [main:AhkDllController@90] - DLL is loaded from memory
+2018-05-22 11:37:27,367 - ERROR [main:DriverChrome@36] - 
+java.lang.NullPointerException
+	at com.millenium.bots.selenium.DriverChrome.getDriverConnection(DriverChrome.java:31)
+	at com.millenium.bots.whatsapp.enviarmensaje.Navigation.enterWhatsApp(Navigation.java:64)
+	at com.millenium.bots.whatsapp.enviarmensaje.SendMessage.main(SendMessage.java:107)
+2018-05-22 11:45:54,013 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 11:45:54,015 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 11:45:54,537 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 11:46:44,833 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 11:46:44,836 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 11:46:45,391 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:36:17,408 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:36:17,410 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:36:17,996 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:36:38,492 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:36:38,495 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:36:39,103 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:44:43,397 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:44:43,399 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:44:43,919 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:44:58,405 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:44:58,408 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:44:58,875 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:45:23,091 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:45:23,093 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:45:23,667 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:45:36,409 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:45:36,411 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:45:36,915 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:45:59,173 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:45:59,175 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:45:59,711 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:46:20,320 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:46:20,323 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:46:20,811 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:47:12,176 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:47:12,178 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:47:12,802 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:47:28,651 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:47:28,654 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:47:29,182 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:48:48,862 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:48:48,865 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:48:49,355 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:49:04,371 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:49:04,373 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:49:04,955 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:50:34,015 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:50:34,018 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:50:34,536 - INFO  [main:AhkDllController@122] - initialisation
+2018-05-22 14:51:07,278 - INFO  [main:AhkDllController@84] - Running in 64
+2018-05-22 14:51:07,281 - INFO  [main:AhkDllController@85] - Cargando AutoHotkey.dll
+2018-05-22 14:51:07,755 - INFO  [main:AhkDllController@122] - initialisation
+2019-01-28 13:52:14,348 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 13:56:30,407 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 13:57:12,177 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 14:00:46,165 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 14:16:00,217 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 14:21:25,327 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 14:42:08,648 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 14:56:29,040 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 16:16:10,098 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 16:33:01,412 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 16:46:23,242 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 16:48:46,771 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:01:44,667 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:05:11,135 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:06:29,896 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:10:00,477 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:10:35,077 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:12:14,840 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:12:40,359 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:13:27,485 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:14:37,064 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:16:21,480 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:17:00,657 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:18:09,040 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:19:00,746 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:19:36,247 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:20:41,367 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:24:53,777 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:26:05,939 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:26:57,503 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:35:23,346 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:39:32,730 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:39:40,190 - INFO  [main:SendMessage@109] - Mensaje #1 enviado al número573219247644
+2019-01-28 17:39:47,624 - INFO  [main:SendMessage@109] - Mensaje #2 enviado al número573219247644
+2019-01-28 17:39:54,708 - INFO  [main:SendMessage@109] - Mensaje #3 enviado al número573219247644
+2019-01-28 17:40:01,606 - INFO  [main:SendMessage@109] - Mensaje #4 enviado al número573219247644
+2019-01-28 17:40:08,983 - INFO  [main:SendMessage@109] - Mensaje #5 enviado al número573219247644
+2019-01-28 17:40:15,739 - INFO  [main:SendMessage@109] - Mensaje #6 enviado al número573219247644
+2019-01-28 17:40:23,600 - INFO  [main:SendMessage@109] - Mensaje #7 enviado al número573219247644
+2019-01-28 17:40:30,767 - INFO  [main:SendMessage@109] - Mensaje #8 enviado al número573219247644
+2019-01-28 17:40:37,485 - INFO  [main:SendMessage@109] - Mensaje #9 enviado al número573219247644
+2019-01-28 17:40:44,470 - INFO  [main:SendMessage@109] - Mensaje #10 enviado al número573219247644
+2019-01-28 17:40:51,172 - INFO  [main:SendMessage@109] - Mensaje #11 enviado al número573219247644
+2019-01-28 17:40:58,191 - INFO  [main:SendMessage@109] - Mensaje #12 enviado al número573219247644
+2019-01-28 17:41:05,423 - INFO  [main:SendMessage@109] - Mensaje #13 enviado al número573219247644
+2019-01-28 17:41:12,367 - INFO  [main:SendMessage@109] - Mensaje #14 enviado al número573219247644
+2019-01-28 17:41:19,739 - INFO  [main:SendMessage@109] - Mensaje #15 enviado al número573219247644
+2019-01-28 17:41:27,076 - INFO  [main:SendMessage@109] - Mensaje #16 enviado al número573219247644
+2019-01-28 17:41:34,635 - INFO  [main:SendMessage@109] - Mensaje #17 enviado al número573219247644
+2019-01-28 17:41:42,360 - INFO  [main:SendMessage@109] - Mensaje #18 enviado al número573219247644
+2019-01-28 17:41:49,649 - INFO  [main:SendMessage@109] - Mensaje #19 enviado al número573219247644
+2019-01-28 17:41:56,859 - INFO  [main:SendMessage@109] - Mensaje #20 enviado al número573219247644
+2019-01-28 17:44:18,544 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:44:26,829 - INFO  [main:SendMessage@109] - Mensaje #1 enviado al número573219247644
+2019-01-28 17:44:36,001 - INFO  [main:SendMessage@109] - Mensaje #2 enviado al número573219247644
+2019-01-28 17:44:44,388 - INFO  [main:SendMessage@109] - Mensaje #3 enviado al número573219247644
+2019-01-28 17:44:52,307 - INFO  [main:SendMessage@109] - Mensaje #4 enviado al número573219247644
+2019-01-28 17:45:00,634 - INFO  [main:SendMessage@109] - Mensaje #5 enviado al número573219247644
+2019-01-28 17:45:09,025 - INFO  [main:SendMessage@109] - Mensaje #6 enviado al número573219247644
+2019-01-28 17:45:17,594 - INFO  [main:SendMessage@109] - Mensaje #7 enviado al número573219247644
+2019-01-28 17:45:26,387 - INFO  [main:SendMessage@109] - Mensaje #8 enviado al número573219247644
+2019-01-28 17:45:35,096 - INFO  [main:SendMessage@109] - Mensaje #9 enviado al número573219247644
+2019-01-28 17:45:43,526 - INFO  [main:SendMessage@109] - Mensaje #10 enviado al número573219247644
+2019-01-28 17:45:51,522 - INFO  [main:SendMessage@109] - Mensaje #11 enviado al número573219247644
+2019-01-28 17:45:59,519 - INFO  [main:SendMessage@109] - Mensaje #12 enviado al número573219247644
+2019-01-28 17:46:08,329 - INFO  [main:SendMessage@109] - Mensaje #13 enviado al número573219247644
+2019-01-28 17:46:16,912 - INFO  [main:SendMessage@109] - Mensaje #14 enviado al número573219247644
+2019-01-28 17:46:24,954 - INFO  [main:SendMessage@109] - Mensaje #15 enviado al número573219247644
+2019-01-28 17:46:33,215 - INFO  [main:SendMessage@109] - Mensaje #16 enviado al número573219247644
+2019-01-28 17:46:41,896 - INFO  [main:SendMessage@109] - Mensaje #17 enviado al número573219247644
+2019-01-28 17:46:49,834 - INFO  [main:SendMessage@109] - Mensaje #18 enviado al número573219247644
+2019-01-28 17:46:57,898 - INFO  [main:SendMessage@109] - Mensaje #19 enviado al número573219247644
+2019-01-28 17:47:06,114 - INFO  [main:SendMessage@109] - Mensaje #20 enviado al número573219247644
+2019-01-28 17:56:00,242 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-28 17:56:09,511 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-29 08:27:01,794 - INFO  [main:AhkDllController@97] - Ahk DLL loaded from: ../mille-bots-common/ahk/AutoHotkey64.dll
+2019-01-29 08:27:14,073 - INFO  [main:SendMessage@111] - Mensaje #1 enviado al número573506038794
+2019-01-29 08:27:21,800 - INFO  [main:SendMessage@111] - Mensaje #2 enviado al número573506038794
+2019-01-29 08:27:29,913 - INFO  [main:SendMessage@111] - Mensaje #3 enviado al número573506038794
+2019-01-29 08:27:37,663 - INFO  [main:SendMessage@111] - Mensaje #4 enviado al número573506038794
+2019-01-29 08:27:45,755 - INFO  [main:SendMessage@111] - Mensaje #5 enviado al número573506038794
+2019-01-29 08:27:53,641 - INFO  [main:SendMessage@111] - Mensaje #6 enviado al número573506038794
+2019-01-29 08:28:01,414 - INFO  [main:SendMessage@111] - Mensaje #7 enviado al número573506038794
+2019-01-29 08:28:09,240 - INFO  [main:SendMessage@111] - Mensaje #8 enviado al número573506038794
+2019-01-29 08:28:17,330 - INFO  [main:SendMessage@111] - Mensaje #9 enviado al número573506038794
+2019-01-29 08:28:25,137 - INFO  [main:SendMessage@111] - Mensaje #10 enviado al número573506038794
+2019-01-29 08:28:33,100 - INFO  [main:SendMessage@111] - Mensaje #11 enviado al número573506038794
+2019-01-29 08:28:41,095 - INFO  [main:SendMessage@111] - Mensaje #12 enviado al número573506038794
+2019-01-29 08:28:49,410 - INFO  [main:SendMessage@111] - Mensaje #13 enviado al número573506038794
+2019-01-29 08:28:57,977 - INFO  [main:SendMessage@111] - Mensaje #14 enviado al número573506038794
+2019-01-29 08:29:05,889 - INFO  [main:SendMessage@111] - Mensaje #15 enviado al número573506038794
